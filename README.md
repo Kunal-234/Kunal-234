@@ -1,7 +1,7 @@
 # Hi there, I'm Kunal Kumar 👋
 
-![GitHub followers](https://img.shields.io/github/followers/<Kunal-234>?style=social)
-![GitHub stars](https://img.shields.io/github/stars/<Kunal-234>?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Kunal-234?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Kunal-234?style=social)
 
 ## 🌐 About Me
 - 🔭 I’m currently pursuing **Bachelor of Computer Applications (BCA)** at Srinath University.
@@ -16,8 +16,8 @@
 - **Deployment Platforms:** Vercel, Netlify
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<Kunal-234>&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<Kunal-234>&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-234&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunal-234&show_icons=true&theme=radical)
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Kumar-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/<your-linkedin-profile>](https://www.linkedin.com/in/kunal-kumar-792136340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))

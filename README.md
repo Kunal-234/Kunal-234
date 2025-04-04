@@ -6,7 +6,7 @@
 ## 🌐 About Me
 - 🔭 I’m currently pursuing **Bachelor of Computer Applications (BCA)** at Srinath University.
 - 🌱 I’m exploring cutting-edge web development frameworks and improving my problem-solving skills.
-- 💬 Ask me about **Vue.js**, **Tailwind CSS**, or anything about modern web development!
+- 💬 Ask me about **React.js**, **Tailwind CSS**, or anything about modern web development!
 - ⚡ Fun fact: I love debugging code just as much as creating it!
 
 ## 🛠 Skills and Tools

@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Kunal Kumar 👋
 
-<!--
-**Kunal-234/Kunal-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/<Kunal-234>?style=social)
+![GitHub stars](https://img.shields.io/github/stars/<Kunal-234>?style=social)
 
-Here are some ideas to get you started:
+## 🌐 About Me
+- 🔭 I’m currently pursuing **Bachelor of Computer Applications (BCA)** at Srinath University.
+- 🌱 I’m exploring cutting-edge web development frameworks and improving my problem-solving skills.
+- 💬 Ask me about **Vue.js**, **Tailwind CSS**, or anything about modern web development!
+- ⚡ Fun fact: I love debugging code just as much as creating it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills and Tools
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React.js, Tailwind CSS, Next.js
+- **Tools:** Vite, VS Code, npm
+- **Deployment Platforms:** Vercel, Netlify
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<Kunal-234>&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<Kunal-234>&show_icons=true&theme=radical)
+
+## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Kumar-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/<your-linkedin-profile>](https://www.linkedin.com/in/kunal-kumar-792136340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kunal%20Kumar-red?style=flat-square&logo=web)](https://kunal-kumar-234.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-Kunal%20Kumar-blue?style=flat-square&logo=twitter)](https://x.com/kunal__23?t=iuIAO11dJIlQoxh7fb2D8A&s=09)
+
+---
+
+_“Great things are done by a series of small things brought together.”_  
+**Van Gogh**

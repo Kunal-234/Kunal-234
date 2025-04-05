@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Twitter-Kunal%20Kumar-blue?style=flat-square&logo=twitter" alt="Twitter">
   </a>
 </p>
----
 
 _“Great things are done by a series of small things brought together.”_  
 **Van Gogh**
